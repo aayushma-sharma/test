@@ -1,4 +1,3 @@
-# test learning java
 class Patient {
 
     String name;
